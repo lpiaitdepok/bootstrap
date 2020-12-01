@@ -18,4 +18,5 @@ responsive meta tag
 Community
 Stay up to date on the development of Bootstrap and reach out to the community with these helpful resources.
 
-Follow @getbootstrap on Twitter.
+* Follow @getbootstrap on Twitter.
+* Chat with fellow Bootstrappers in IRC. On the irc.freenode.net server, in the ##bootstrap channel.
